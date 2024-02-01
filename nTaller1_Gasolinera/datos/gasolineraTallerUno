@@ -1,0 +1,13 @@
+tipo:diesel:11400:23932.0
+tipo:Corriente:15300:10000.0
+tipo:extra:26700:22800.0
+tipo:flop:8000:12000.0
+surtidor:ivonne:diesel:0.0:Corriente:0.0:extra:0.0:flop:0.0
+surtidor:nico:diesel:0.0:Corriente:0.0:extra:0.0:flop:0.0
+surtidor:alec:diesel:0.0:Corriente:0.0:extra:0.0:flop:0.0
+surtidor:alec:diesel:0.0:Corriente:0.0:extra:0.0:flop:0.0
+empleado:tomas:0
+empleado:alec:0
+empleado:nico:0
+empleado:ivonne:0
+empleado:ali:0
